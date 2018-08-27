@@ -5,6 +5,8 @@ This Tableau story includes all the games from Athens 1896 to Rio 2016. Visualiz
 
 Tableau Story is available [Here](https://public.tableau.com/profile/pooja7429#!/vizhome/StoryonOlympicGamesV1/Story1?publish=yes)
 
+I am working on a report of the story and will update it soon.
+
 # Technologies Used
 - Tableau
 
