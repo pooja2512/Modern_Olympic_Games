@@ -1,4 +1,4 @@
-# Tableau_Story_on_Modern_Olympic_Games
+# Modern Olympic Games
 
 # Overview
 This Tableau story includes all the games from Athens 1896 to Rio 2016. Visualization focuses on how the olympics have evovled over time, participation & performance in different nations and different sports.
