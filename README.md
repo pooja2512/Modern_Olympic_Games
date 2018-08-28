@@ -11,7 +11,7 @@ I am working on a report of the story and will update it soon.
 - Tableau
 
 # Key Findings
-- Female participation has increased to 43% in summer Olympics and 37.66% in winter Olympics since 1900.
+- Female participation has increased to 25.74% in summer Olympics and 10.17% in winter Olympics since 1900.
 
 - Participation of athletes is observed to more in Summer Olympics than Winter Olympics.
 
